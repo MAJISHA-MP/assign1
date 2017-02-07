@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>relative link</title>
+</head>
+<body><h1>first page</h1>
+<a href="second.html">GO TO 
+SECOND HTML PAGE</a>
+</body>
+</html>
